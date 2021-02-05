@@ -3,7 +3,7 @@
   "homepage": "https://github.com/journy-io/:package",
   "repository": "github:journy-io/:package",
   "version": "0.0.0",
-  "description": "HTTP utilities",
+  "description": ":description",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
