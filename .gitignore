@@ -22,3 +22,6 @@ dist
 # IDE's
 .idea/
 .vscode/
+
+# macOS
+.DS_Store
