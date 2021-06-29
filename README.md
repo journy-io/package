@@ -3,6 +3,7 @@
 # :package
 
 ![npm](https://img.shields.io/npm/v/@journyio/:package?color=%234d84f5&style=flat-square)
+[![npm downloads](https://img.shields.io/npm/dm/@journyio/:package?style=flat-square)](https://www.npmjs.com/package/@journyio/:package)
 
 :description
 
