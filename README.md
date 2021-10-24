@@ -3,6 +3,7 @@
 # :package
 
 ![npm](https://img.shields.io/npm/v/@journyio/:package?color=%234d84f5&style=flat-square)
+[![npm downloads](https://img.shields.io/npm/dm/@journyio/:package?style=flat-square)](https://www.npmjs.com/package/@journyio/:package)
 
 :description
 
@@ -32,4 +33,4 @@ npm run test
 
 ## 🔒 Security
 
-If you discover any security related issues, please email hans at journy io instead of using the issue tracker.
+If you discover any security related issues, please email security at journy io instead of using the issue tracker.
