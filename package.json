@@ -11,7 +11,9 @@
     "build-watch": "tsc --watch",
     "test": "jest ${1}",
     "test-watch": "jest ${1} --watch",
-    "lint": "eslint lib/**/*.ts"
+    "lint": "npm run lint-eslint && npm run lint-tsc",
+    "lint-eslint": "eslint lib/**/*.ts",
+    "lint-tsc": "tsc --noEmit"
   },
   "directories": {
     "lib": "lib"
